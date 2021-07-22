@@ -1,4 +1,4 @@
-# CoraonaDetection
+# CoronavirusDetection
 
 To Run this project 
 1. First Install Python 3.7 and Pip package
